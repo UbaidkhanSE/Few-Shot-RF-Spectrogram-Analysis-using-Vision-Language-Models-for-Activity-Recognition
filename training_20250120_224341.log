@@ -1,0 +1,65 @@
+2025-01-20 22:43:41,624 - INFO - Loaded image: E:\Analyzer\Testing.jpg
+2025-01-20 22:43:41,624 - INFO - Loaded image: E:\Analyzer\SingleSubjectRandomMovement.jpg
+2025-01-20 22:43:41,624 - INFO - Loaded image: E:\Analyzer\SingleSubjectDiagonalMovement.jpg
+2025-01-20 22:43:41,624 - INFO - Loaded image: E:\Analyzer\2subjectsRandomMovement.jpg
+2025-01-20 22:43:41,624 - INFO - Loaded image: E:\Analyzer\2subjectsDiagonalMovement.jpg
+2025-01-20 22:43:41,625 - INFO - Starting fold 1
+2025-01-20 22:43:57,669 - INFO - Fold 1, Epoch 1/3
+2025-01-20 22:43:57,670 - INFO - Training Loss: 0.0000
+2025-01-20 22:43:57,670 - INFO - Validation Loss: 0.0000
+2025-01-20 22:43:59,238 - INFO - Model saved to trained_models\model_fold0_epoch0_loss0.0000.pt
+2025-01-20 22:43:59,250 - INFO - Processor saved to trained_models\processor_fold0_epoch0.json
+2025-01-20 22:44:14,036 - INFO - Fold 1, Epoch 2/3
+2025-01-20 22:44:14,036 - INFO - Training Loss: 0.0000
+2025-01-20 22:44:14,036 - INFO - Validation Loss: 0.0000
+2025-01-20 22:44:26,969 - INFO - Fold 1, Epoch 3/3
+2025-01-20 22:44:26,969 - INFO - Training Loss: 0.0000
+2025-01-20 22:44:26,969 - INFO - Validation Loss: 0.0000
+2025-01-20 22:44:26,969 - INFO - Starting fold 2
+2025-01-20 22:44:41,871 - INFO - Fold 2, Epoch 1/3
+2025-01-20 22:44:41,871 - INFO - Training Loss: 0.0000
+2025-01-20 22:44:41,871 - INFO - Validation Loss: 0.0000
+2025-01-20 22:44:43,606 - INFO - Model saved to trained_models\model_fold1_epoch0_loss0.0000.pt
+2025-01-20 22:44:43,606 - INFO - Processor saved to trained_models\processor_fold1_epoch0.json
+2025-01-20 22:44:55,538 - INFO - Fold 2, Epoch 2/3
+2025-01-20 22:44:55,538 - INFO - Training Loss: 0.0000
+2025-01-20 22:44:55,538 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:04,884 - INFO - Fold 2, Epoch 3/3
+2025-01-20 22:45:04,884 - INFO - Training Loss: 0.0000
+2025-01-20 22:45:04,884 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:04,884 - INFO - Starting fold 3
+2025-01-20 22:45:14,078 - INFO - Fold 3, Epoch 1/3
+2025-01-20 22:45:14,078 - INFO - Training Loss: 0.0000
+2025-01-20 22:45:14,078 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:15,894 - INFO - Model saved to trained_models\model_fold2_epoch0_loss0.0000.pt
+2025-01-20 22:45:15,894 - INFO - Processor saved to trained_models\processor_fold2_epoch0.json
+2025-01-20 22:45:30,720 - INFO - Fold 3, Epoch 2/3
+2025-01-20 22:45:30,720 - INFO - Training Loss: 0.0000
+2025-01-20 22:45:30,720 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:44,776 - INFO - Fold 3, Epoch 3/3
+2025-01-20 22:45:44,778 - INFO - Training Loss: 0.0000
+2025-01-20 22:45:44,778 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:44,778 - INFO - Starting fold 4
+2025-01-20 22:45:57,523 - INFO - Fold 4, Epoch 1/3
+2025-01-20 22:45:57,523 - INFO - Training Loss: 0.0000
+2025-01-20 22:45:57,523 - INFO - Validation Loss: 0.0000
+2025-01-20 22:45:59,415 - INFO - Model saved to trained_models\model_fold3_epoch0_loss0.0000.pt
+2025-01-20 22:45:59,415 - INFO - Processor saved to trained_models\processor_fold3_epoch0.json
+2025-01-20 22:46:12,694 - INFO - Fold 4, Epoch 2/3
+2025-01-20 22:46:12,694 - INFO - Training Loss: 0.0000
+2025-01-20 22:46:12,694 - INFO - Validation Loss: 0.0000
+2025-01-20 22:46:25,981 - INFO - Fold 4, Epoch 3/3
+2025-01-20 22:46:25,981 - INFO - Training Loss: 0.0000
+2025-01-20 22:46:25,981 - INFO - Validation Loss: 0.0000
+2025-01-20 22:46:25,981 - INFO - Starting fold 5
+2025-01-20 22:46:40,306 - INFO - Fold 5, Epoch 1/3
+2025-01-20 22:46:40,307 - INFO - Training Loss: 0.0000
+2025-01-20 22:46:40,307 - INFO - Validation Loss: 0.0000
+2025-01-20 22:46:41,952 - INFO - Model saved to trained_models\model_fold4_epoch0_loss0.0000.pt
+2025-01-20 22:46:41,953 - INFO - Processor saved to trained_models\processor_fold4_epoch0.json
+2025-01-20 22:46:56,178 - INFO - Fold 5, Epoch 2/3
+2025-01-20 22:46:56,179 - INFO - Training Loss: 0.0000
+2025-01-20 22:46:56,179 - INFO - Validation Loss: 0.0000
+2025-01-20 22:47:08,056 - INFO - Fold 5, Epoch 3/3
+2025-01-20 22:47:08,056 - INFO - Training Loss: 0.0000
+2025-01-20 22:47:08,056 - INFO - Validation Loss: 0.0000
