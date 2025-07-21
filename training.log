@@ -1,0 +1,255 @@
+2025-02-04 10:34:03,571 - INFO - Starting model training...
+2025-02-04 10:34:03,572 - INFO - Using device: cpu
+2025-02-04 10:34:07,359 - INFO - Total dataset size: 165
+2025-02-04 10:34:07,360 - INFO - Number of activity classes: 11
+2025-02-04 10:34:09,287 - INFO - 
+Epoch 1/5
+2025-02-04 10:35:30,069 - INFO - Starting model training...
+2025-02-04 10:35:30,070 - INFO - Using device: cpu
+2025-02-04 10:35:34,639 - INFO - Total dataset size: 165
+2025-02-04 10:35:34,639 - INFO - Number of activity classes: 11
+2025-02-04 10:35:36,215 - INFO - 
+Epoch 1/20
+2025-02-04 10:36:18,407 - INFO - Train Accuracy: 11.36%
+2025-02-04 10:36:22,300 - INFO - Validation Accuracy: 6.06%
+2025-02-04 10:36:26,854 - INFO - Saved best model with accuracy: 6.06%
+2025-02-04 10:36:26,854 - INFO - 
+Epoch 2/20
+2025-02-04 10:37:08,595 - INFO - Train Accuracy: 12.12%
+2025-02-04 10:37:12,285 - INFO - Validation Accuracy: 12.12%
+2025-02-04 10:37:16,707 - INFO - Saved best model with accuracy: 12.12%
+2025-02-04 10:37:16,716 - INFO - 
+Epoch 3/20
+2025-02-04 10:37:57,914 - INFO - Train Accuracy: 13.64%
+2025-02-04 10:38:01,685 - INFO - Validation Accuracy: 12.12%
+2025-02-04 10:38:01,686 - INFO - 
+Epoch 4/20
+2025-02-04 10:38:43,463 - INFO - Train Accuracy: 21.21%
+2025-02-04 10:38:47,150 - INFO - Validation Accuracy: 9.09%
+2025-02-04 10:38:47,151 - INFO - 
+Epoch 5/20
+2025-02-04 10:39:28,419 - INFO - Train Accuracy: 15.15%
+2025-02-04 10:39:31,999 - INFO - Validation Accuracy: 3.03%
+2025-02-04 10:39:31,999 - INFO - 
+Epoch 6/20
+2025-02-04 10:40:13,573 - INFO - Train Accuracy: 20.45%
+2025-02-04 10:40:17,257 - INFO - Validation Accuracy: 21.21%
+2025-02-04 10:40:19,891 - INFO - Saved best model with accuracy: 21.21%
+2025-02-04 10:40:19,893 - INFO - 
+Epoch 7/20
+2025-02-04 10:41:11,335 - INFO - Train Accuracy: 36.36%
+2025-02-04 10:41:18,117 - INFO - Validation Accuracy: 39.39%
+2025-02-04 10:41:23,351 - INFO - Saved best model with accuracy: 39.39%
+2025-02-04 10:41:23,352 - INFO - 
+Epoch 8/20
+2025-02-04 10:42:40,055 - INFO - Train Accuracy: 50.76%
+2025-02-04 10:42:45,866 - INFO - Validation Accuracy: 42.42%
+2025-02-04 10:42:50,081 - INFO - Saved best model with accuracy: 42.42%
+2025-02-04 10:42:50,082 - INFO - 
+Epoch 9/20
+2025-02-04 10:44:01,668 - INFO - Train Accuracy: 59.09%
+2025-02-04 10:44:08,991 - INFO - Validation Accuracy: 66.67%
+2025-02-04 10:44:13,624 - INFO - Saved best model with accuracy: 66.67%
+2025-02-04 10:44:13,624 - INFO - 
+Epoch 10/20
+2025-02-04 10:45:27,141 - INFO - Train Accuracy: 69.70%
+2025-02-04 10:45:34,114 - INFO - Validation Accuracy: 69.70%
+2025-02-04 10:45:37,716 - INFO - Saved best model with accuracy: 69.70%
+2025-02-04 10:45:37,717 - INFO - 
+Epoch 11/20
+2025-02-04 10:46:48,876 - INFO - Train Accuracy: 86.36%
+2025-02-04 10:46:55,681 - INFO - Validation Accuracy: 75.76%
+2025-02-04 10:46:58,731 - INFO - Saved best model with accuracy: 75.76%
+2025-02-04 10:46:58,731 - INFO - 
+Epoch 12/20
+2025-02-04 10:48:15,435 - INFO - Train Accuracy: 92.42%
+2025-02-04 10:48:21,765 - INFO - Validation Accuracy: 75.76%
+2025-02-04 10:48:21,765 - INFO - 
+Epoch 13/20
+2025-02-04 10:49:36,255 - INFO - Train Accuracy: 92.42%
+2025-02-04 10:49:41,967 - INFO - Validation Accuracy: 72.73%
+2025-02-04 10:49:41,968 - INFO - 
+Epoch 14/20
+2025-02-04 10:50:52,105 - INFO - Train Accuracy: 99.24%
+2025-02-04 10:50:58,216 - INFO - Validation Accuracy: 75.76%
+2025-02-04 10:50:58,216 - INFO - 
+Epoch 15/20
+2025-02-04 10:52:10,946 - INFO - Train Accuracy: 98.48%
+2025-02-04 10:52:17,741 - INFO - Validation Accuracy: 78.79%
+2025-02-04 10:52:22,797 - INFO - Saved best model with accuracy: 78.79%
+2025-02-04 10:52:22,801 - INFO - 
+Epoch 16/20
+2025-02-04 10:53:49,162 - INFO - Train Accuracy: 98.48%
+2025-02-04 10:53:55,847 - INFO - Validation Accuracy: 78.79%
+2025-02-04 10:53:55,847 - INFO - 
+Epoch 17/20
+2025-02-04 10:55:16,541 - INFO - Train Accuracy: 99.24%
+2025-02-04 10:55:22,545 - INFO - Validation Accuracy: 81.82%
+2025-02-04 10:55:25,152 - INFO - Saved best model with accuracy: 81.82%
+2025-02-04 10:55:25,152 - INFO - 
+Epoch 18/20
+2025-02-04 10:56:43,590 - INFO - Train Accuracy: 99.24%
+2025-02-04 10:56:50,466 - INFO - Validation Accuracy: 81.82%
+2025-02-04 10:56:50,467 - INFO - 
+Epoch 19/20
+2025-02-04 10:58:02,283 - INFO - Train Accuracy: 100.00%
+2025-02-04 10:58:09,046 - INFO - Validation Accuracy: 81.82%
+2025-02-04 10:58:09,046 - INFO - 
+Epoch 20/20
+2025-02-04 10:59:09,857 - INFO - Train Accuracy: 100.00%
+2025-02-04 10:59:16,210 - INFO - Validation Accuracy: 81.82%
+2025-02-04 10:59:16,211 - INFO - Training completed!
+2025-02-04 11:18:11,037 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-02-04 11:18:11,106 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-02-04 11:18:11,404 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-02-23 19:29:04,724 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-02-23 19:29:04,786 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-02-23 19:29:05,409 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-03-11 10:42:27,078 - INFO - Starting model training...
+2025-03-11 10:42:27,082 - INFO - Using CPU: 2 physical cores (4 logical), RAM: 15.64 GB
+2025-03-11 10:42:30,785 - INFO - Total dataset size: 165
+2025-03-11 10:42:30,786 - INFO - Number of activity classes: 11
+2025-03-11 10:42:32,358 - INFO - 
+Epoch 1/20
+2025-03-11 10:43:45,779 - INFO - Train Accuracy: 6.06%
+2025-03-11 10:43:45,780 - INFO - Average batch processing time: 7.434s
+2025-03-11 10:43:51,954 - INFO - Validation Accuracy: 6.06% (Time: 6.17s)
+2025-03-11 10:43:57,240 - INFO - Saved best model with accuracy: 6.06%
+2025-03-11 10:43:57,241 - INFO - Epoch 1 completed in 84.88s, RAM Usage: 1.92GB
+2025-03-11 10:43:57,241 - INFO - 
+Epoch 2/20
+2025-03-11 10:45:01,151 - INFO - Train Accuracy: 8.33%
+2025-03-11 10:45:01,152 - INFO - Average batch processing time: 6.696s
+2025-03-11 10:45:06,859 - INFO - Validation Accuracy: 15.15% (Time: 5.70s)
+2025-03-11 10:45:12,058 - INFO - Saved best model with accuracy: 15.15%
+2025-03-11 10:45:12,059 - INFO - Epoch 2 completed in 74.82s, RAM Usage: 1.96GB
+2025-03-11 10:45:12,060 - INFO - 
+Epoch 3/20
+2025-03-11 10:46:23,951 - INFO - Train Accuracy: 7.58%
+2025-03-11 10:46:23,952 - INFO - Average batch processing time: 7.332s
+2025-03-11 10:46:29,856 - INFO - Validation Accuracy: 9.09% (Time: 5.90s)
+2025-03-11 10:46:29,857 - INFO - Epoch 3 completed in 77.80s, RAM Usage: 1.96GB
+2025-03-11 10:46:29,858 - INFO - 
+Epoch 4/20
+2025-03-11 10:48:01,025 - INFO - Train Accuracy: 14.39%
+2025-03-11 10:48:01,025 - INFO - Average batch processing time: 9.465s
+2025-03-11 10:48:07,286 - INFO - Validation Accuracy: 12.12% (Time: 6.26s)
+2025-03-11 10:48:07,287 - INFO - Epoch 4 completed in 97.43s, RAM Usage: 1.92GB
+2025-03-11 10:48:07,289 - INFO - 
+Epoch 5/20
+2025-03-11 10:49:13,976 - INFO - Train Accuracy: 24.24%
+2025-03-11 10:49:13,977 - INFO - Average batch processing time: 6.933s
+2025-03-11 10:49:19,712 - INFO - Validation Accuracy: 21.21% (Time: 5.73s)
+2025-03-11 10:49:22,381 - INFO - Saved best model with accuracy: 21.21%
+2025-03-11 10:49:22,382 - INFO - Epoch 5 completed in 75.09s, RAM Usage: 1.96GB
+2025-03-11 10:49:22,382 - INFO - 
+Epoch 6/20
+2025-03-11 10:50:26,758 - INFO - Train Accuracy: 25.76%
+2025-03-11 10:50:26,759 - INFO - Average batch processing time: 6.719s
+2025-03-11 10:50:32,668 - INFO - Validation Accuracy: 27.27% (Time: 5.91s)
+2025-03-11 10:50:35,130 - INFO - Saved best model with accuracy: 27.27%
+2025-03-11 10:50:35,130 - INFO - Epoch 6 completed in 72.75s, RAM Usage: 1.96GB
+2025-03-11 10:50:35,131 - INFO - 
+Epoch 7/20
+2025-03-11 10:51:38,760 - INFO - Train Accuracy: 43.94%
+2025-03-11 10:51:38,761 - INFO - Average batch processing time: 6.641s
+2025-03-11 10:51:44,511 - INFO - Validation Accuracy: 54.55% (Time: 5.75s)
+2025-03-11 10:51:47,146 - INFO - Saved best model with accuracy: 54.55%
+2025-03-11 10:51:47,147 - INFO - Epoch 7 completed in 72.02s, RAM Usage: 1.96GB
+2025-03-11 10:51:47,151 - INFO - 
+Epoch 8/20
+2025-03-11 10:52:51,966 - INFO - Train Accuracy: 61.36%
+2025-03-11 10:52:51,966 - INFO - Average batch processing time: 6.744s
+2025-03-11 10:52:58,008 - INFO - Validation Accuracy: 48.48% (Time: 6.04s)
+2025-03-11 10:52:58,009 - INFO - Epoch 8 completed in 70.86s, RAM Usage: 1.93GB
+2025-03-11 10:52:58,010 - INFO - 
+Epoch 9/20
+2025-03-11 10:54:13,027 - INFO - Train Accuracy: 68.18%
+2025-03-11 10:54:13,027 - INFO - Average batch processing time: 7.838s
+2025-03-11 10:54:18,802 - INFO - Validation Accuracy: 63.64% (Time: 5.77s)
+2025-03-11 10:54:21,539 - INFO - Saved best model with accuracy: 63.64%
+2025-03-11 10:54:21,540 - INFO - Epoch 9 completed in 83.53s, RAM Usage: 1.96GB
+2025-03-11 10:54:21,540 - INFO - 
+Epoch 10/20
+2025-03-11 10:55:36,483 - INFO - Train Accuracy: 75.76%
+2025-03-11 10:55:36,484 - INFO - Average batch processing time: 7.829s
+2025-03-11 10:55:42,387 - INFO - Validation Accuracy: 60.61% (Time: 5.90s)
+2025-03-11 10:55:42,388 - INFO - Epoch 10 completed in 80.85s, RAM Usage: 1.96GB
+2025-03-11 10:55:42,390 - INFO - 
+Epoch 11/20
+2025-03-11 10:56:57,790 - INFO - Train Accuracy: 85.61%
+2025-03-11 10:56:57,790 - INFO - Average batch processing time: 7.847s
+2025-03-11 10:57:08,617 - INFO - Validation Accuracy: 75.76% (Time: 10.82s)
+2025-03-11 10:57:15,172 - INFO - Saved best model with accuracy: 75.76%
+2025-03-11 10:57:15,229 - INFO - Epoch 11 completed in 92.84s, RAM Usage: 1.93GB
+2025-03-11 10:57:15,242 - INFO - 
+Epoch 12/20
+2025-03-11 10:58:34,142 - INFO - Train Accuracy: 89.39%
+2025-03-11 10:58:34,143 - INFO - Average batch processing time: 8.136s
+2025-03-11 10:58:39,668 - INFO - Validation Accuracy: 84.85% (Time: 5.52s)
+2025-03-11 10:58:43,552 - INFO - Saved best model with accuracy: 84.85%
+2025-03-11 10:58:43,553 - INFO - Epoch 12 completed in 88.31s, RAM Usage: 1.95GB
+2025-03-11 10:58:43,553 - INFO - 
+Epoch 13/20
+2025-03-11 10:59:59,632 - INFO - Train Accuracy: 90.15%
+2025-03-11 10:59:59,632 - INFO - Average batch processing time: 7.929s
+2025-03-11 11:00:05,340 - INFO - Validation Accuracy: 84.85% (Time: 5.70s)
+2025-03-11 11:00:05,341 - INFO - Epoch 13 completed in 81.79s, RAM Usage: 1.96GB
+2025-03-11 11:00:05,341 - INFO - 
+Epoch 14/20
+2025-03-11 11:01:21,903 - INFO - Train Accuracy: 95.45%
+2025-03-11 11:01:21,904 - INFO - Average batch processing time: 7.908s
+2025-03-11 11:01:30,050 - INFO - Validation Accuracy: 87.88% (Time: 8.14s)
+2025-03-11 11:01:35,173 - INFO - Saved best model with accuracy: 87.88%
+2025-03-11 11:01:35,175 - INFO - Epoch 14 completed in 89.83s, RAM Usage: 1.93GB
+2025-03-11 11:01:35,176 - INFO - 
+Epoch 15/20
+2025-03-11 11:03:01,745 - INFO - Train Accuracy: 93.18%
+2025-03-11 11:03:01,746 - INFO - Average batch processing time: 9.008s
+2025-03-11 11:03:07,250 - INFO - Validation Accuracy: 84.85% (Time: 5.50s)
+2025-03-11 11:03:07,251 - INFO - Epoch 15 completed in 92.07s, RAM Usage: 1.95GB
+2025-03-11 11:03:07,251 - INFO - 
+Epoch 16/20
+2025-03-11 11:04:25,228 - INFO - Train Accuracy: 97.73%
+2025-03-11 11:04:25,229 - INFO - Average batch processing time: 8.133s
+2025-03-11 11:04:30,881 - INFO - Validation Accuracy: 84.85% (Time: 5.65s)
+2025-03-11 11:04:30,882 - INFO - Epoch 16 completed in 83.63s, RAM Usage: 1.96GB
+2025-03-11 11:04:30,882 - INFO - 
+Epoch 17/20
+2025-03-11 11:06:07,495 - INFO - Train Accuracy: 99.24%
+2025-03-11 11:06:07,495 - INFO - Average batch processing time: 10.140s
+2025-03-11 11:06:13,047 - INFO - Validation Accuracy: 87.88% (Time: 5.55s)
+2025-03-11 11:06:13,048 - INFO - Epoch 17 completed in 102.17s, RAM Usage: 1.95GB
+2025-03-11 11:06:13,048 - INFO - 
+Epoch 18/20
+2025-03-11 11:07:29,683 - INFO - Train Accuracy: 100.00%
+2025-03-11 11:07:29,684 - INFO - Average batch processing time: 8.003s
+2025-03-11 11:07:35,438 - INFO - Validation Accuracy: 87.88% (Time: 5.75s)
+2025-03-11 11:07:35,438 - INFO - Epoch 18 completed in 82.39s, RAM Usage: 1.96GB
+2025-03-11 11:07:35,439 - INFO - 
+Epoch 19/20
+2025-03-11 11:09:09,615 - INFO - Train Accuracy: 99.24%
+2025-03-11 11:09:09,615 - INFO - Average batch processing time: 9.763s
+2025-03-11 11:09:15,012 - INFO - Validation Accuracy: 87.88% (Time: 5.39s)
+2025-03-11 11:09:15,013 - INFO - Epoch 19 completed in 99.57s, RAM Usage: 1.95GB
+2025-03-11 11:09:15,013 - INFO - 
+Epoch 20/20
+2025-03-11 11:10:34,954 - INFO - Train Accuracy: 99.24%
+2025-03-11 11:10:34,954 - INFO - Average batch processing time: 8.312s
+2025-03-11 11:10:40,608 - INFO - Validation Accuracy: 87.88% (Time: 5.65s)
+2025-03-11 11:10:40,609 - INFO - Epoch 20 completed in 85.60s, RAM Usage: 1.96GB
+2025-03-11 11:10:40,610 - INFO - 
+Measuring inference time...
+2025-03-11 11:13:33,442 - INFO - 
+===== Training Summary =====
+2025-03-11 11:13:33,443 - INFO - Training device: CPU
+2025-03-11 11:13:33,443 - INFO - CPU: 2 physical cores, 4 logical cores
+2025-03-11 11:13:33,444 - INFO - Total training time: 1866.36s (31.11 min)
+2025-03-11 11:13:33,444 - INFO - Average epoch time: 84.41s
+2025-03-11 11:13:33,445 - INFO - Best validation accuracy: 87.88%
+2025-03-11 11:13:33,445 - INFO - Inference time per batch (16 samples): 2962.09ms
+2025-03-11 11:13:33,445 - INFO - Inference time per sample: 185.13ms
+2025-03-11 11:13:33,446 - INFO - Training completed!
+2025-07-19 14:54:38,970 - INFO - HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-07-19 14:54:39,043 - INFO - HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-07-19 14:54:39,172 - INFO - HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
